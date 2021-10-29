@@ -4,7 +4,7 @@ A front-end developer from Brazil, owner of two adorable looking sausage dogs.
 
 Welcome to my Github! 🌟
 
-<hr style="border-top: 5px dotted #D88D20">
+<hr>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,7 +15,7 @@ Welcome to my Github! 🌟
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaemrangel&layout=compact&theme=great-gatsby" />
 </a>
 
-<hr style="border-top: 5px dotted #D88D20">
+<hr>
 
 ``Projects I'm proud off`` ⚡: 
 
