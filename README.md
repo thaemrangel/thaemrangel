@@ -8,11 +8,11 @@ Welcome to my Github! 🌟
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaemrangel&show_icons=true&theme=great-gatsby" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thaemrangel&show_icons=true&theme=great-gatsby" />
 <a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaemrangel&layout=compact&theme=great-gatsby" />
+    <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaemrangel&layout=compact&theme=great-gatsby" />
 </a>
 
 <hr>
